@@ -1,2 +1,2 @@
-# ADMISSION-LETTER
-My Admission letter from Jamb.
+# somsmith-bot
+My first WA bot
