@@ -1,2 +1,2 @@
 # somsmith-bot
-My first WA bot
+Mini half coded WA bot
