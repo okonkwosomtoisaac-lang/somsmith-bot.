@@ -1,2 +1,2 @@
 # somsmith-bot
-Mini half coded WA bot
+Underdeveloped coded WA bot
